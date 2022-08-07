@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+}
+.home2{
+    margin-left: 35%;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    padding: 10px;
+    width: 400px;
+    height: max-content;
+    border: 2px solid rgb(0, 173, 200);
+    border-radius: 4px;
+
+}
